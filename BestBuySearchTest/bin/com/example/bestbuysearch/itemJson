@@ -1,0 +1,474 @@
+{
+  "from": 1,
+  "to": 2,
+  "total": 1438,
+  "currentPage": 1,
+  "totalPages": 719,
+  "queryTime": "0.005",
+  "totalTime": "0.018",
+  "partial": false,
+  "canonicalUrl": "/v1/products(name=\"iphone*\")?format=json&apiKey=vf5ft65skvwfvyd5guj6npef",
+  "products": [
+    {
+      "sku": 6704115,
+      "productId": 1219232098971,
+      "name": "ADOPTED - Cushion Wrap Case for Apple® iPhone® 5 and 5s - Black/Rose Gold",
+      "source": "bestbuy",
+      "type": "HardGood",
+      "startDate": "2014-06-01",
+      "new": false,
+      "active": true,
+      "lowPriceGuarantee": true,
+      "activeUpdateDate": "2014-06-13T20:55:18",
+      "regularPrice": 39.99,
+      "salePrice": 39.99,
+      "onSale": false,
+      "planPrice": null,
+      "priceWithPlan": [
+
+      ],
+      "priceRestriction": null,
+      "priceUpdateDate": "2014-06-22T00:00:56",
+      "digital": false,
+      "preowned": false,
+      "carrierPlans": [
+
+      ],
+      "technologyCode": null,
+      "carrierModelNumber": null,
+      "earlyTerminationFees": [
+
+      ],
+      "outletCenter": null,
+      "secondaryMarket": null,
+      "frequentlyPurchasedWith": [
+
+      ],
+      "accessories": [
+
+      ],
+      "relatedProducts": [
+        {
+          "sku": 6704106
+        },
+        {
+          "sku": 6703152
+        },
+        {
+          "sku": 6703161
+        },
+        {
+          "sku": 6703198
+        },
+        {
+          "sku": 5587019
+        },
+        {
+          "sku": 5587028
+        },
+        {
+          "sku": 5588105
+        },
+        {
+          "sku": 5588114
+        },
+        {
+          "sku": 5589008
+        },
+        {
+          "sku": 6667549
+        },
+        {
+          "sku": 6667746
+        },
+        {
+          "sku": 6667755
+        },
+        {
+          "sku": 6180000
+        },
+        {
+          "sku": 6180203
+        },
+        {
+          "sku": 6180212
+        },
+        {
+          "sku": 6667594
+        },
+        {
+          "sku": 6667737
+        },
+        {
+          "sku": 2162211
+        },
+        {
+          "sku": 2162343
+        }
+      ],
+      "techSupportPlans": [
+
+      ],
+      "salesRankShortTerm": 14838,
+      "salesRankMediumTerm": 10077,
+      "salesRankLongTerm": 24969,
+      "bestSellingRank": 14859,
+      "url": "http://www.bestbuy.com/site/adopted-cushion-wrap-case-for-apple-iphone-5-and-5s-black-rose-gold/6704115.p?id=1219232098971&skuId=6704115&cmp=RMX&ky=2b6y7TIVBl4K9CB7FI7sy8sCKqN17ajfo",
+      "spin360Url": null,
+      "mobileUrl": "http://m.bestbuy.com/r/1219232098971/6704115/",
+      "affiliateUrl": null,
+      "addToCartUrl": "http://www.bestbuy.com/site/olspage.jsp?id=pcmcat152200050035&type=category&cmp=RMX&ky=2b6y7TIVBl4K9CB7FI7sy8sCKqN17ajfo&qvsids=6704115",
+      "affiliateAddToCartUrl": null,
+      "linkShareAffiliateUrl": "",
+      "linkShareAffiliateAddToCartUrl": "",
+      "upc": "819312012751",
+      "productTemplate": "Cell_Phone_Cases",
+      "categoryPath": [
+        {
+          "id": "cat00000",
+          "name": "Best Buy"
+        },
+        {
+          "id": "abcat0800000",
+          "name": "Cell Phones"
+        },
+        {
+          "id": "abcat0811002",
+          "name": "Cell Phone Accessories"
+        },
+        {
+          "id": "abcat0811006",
+          "name": "Cell Phone Cases & Clips"
+        }
+      ],
+      "lists": [
+
+      ],
+      "customerReviewCount": 2,
+      "customerReviewAverage": "2.0",
+      "customerTopRated": false,
+      "format": null,
+      "freeShipping": true,
+      "freeShippingEligible": true,
+      "inStoreAvailability": true,
+      "inStoreAvailabilityText": "Store Pickup: Available at most stores",
+      "inStoreAvailabilityUpdateDate": "2014-06-13T20:55:18",
+      "itemUpdateDate": "2014-09-05T09:51:44",
+      "onlineAvailability": true,
+      "onlineAvailabilityText": "Shipping: Usually leaves our warehouse in 1 business day",
+      "onlineAvailabilityUpdateDate": "2014-06-13T20:55:18",
+      "releaseDate": null,
+      "shippingCost": 0.00,
+      "shipping": [
+        {
+          "ground": 0.00,
+          "secondDay": 8.99,
+          "nextDay": 15.99,
+          "vendorDelivery": ""
+        }
+      ],
+      "specialOrder": false,
+      "shortDescription": "Compatible with Apple iPhone 5 and 5s; metallized frame; clip-on design; open access to ports and buttons",
+      "class": "MOBILE PHONE ACCY",
+      "classId": 123,
+      "subclass": "IPHONE CASES",
+      "subclassId": 753,
+      "department": "DIGITAL COMMUNICATIO",
+      "departmentId": 3,
+      "buybackPlans": [
+
+      ],
+      "protectionPlans": [
+
+      ],
+      "productFamilies": [
+
+      ],
+      "description": null,
+      "manufacturer": "ADOPTED",
+      "modelNumber": "APH11242",
+      "image": "http://img.bbystatic.com/BestBuy_US/images/products/6704/6704115_sc.jpg",
+      "largeFrontImage": "http://img.bbystatic.com/BestBuy_US/images/products/6704/6704115_sa.jpg",
+      "mediumImage": "http://img.bbystatic.com/BestBuy_US/images/products/6704/6704115fp.gif",
+      "thumbnailImage": "http://img.bbystatic.com/BestBuy_US/images/products/6704/6704115_s.gif",
+      "largeImage": "http://img.bbystatic.com/BestBuy_US/images/products/6704/6704115_sb.jpg",
+      "alternateViewsImage": "http://img.bbystatic.com/BestBuy_US/images/products/6704/6704115cv1a.jpg",
+      "angleImage": "http://img.bbystatic.com/BestBuy_US/images/products/6704/6704115_ra.jpg",
+      "backViewImage": null,
+      "energyGuideImage": null,
+      "leftViewImage": null,
+      "accessoriesImage": null,
+      "remoteControlImage": null,
+      "rightViewImage": null,
+      "topViewImage": null,
+      "condition": "New",
+      "inStorePickup": true,
+      "friendsAndFamilyPickup": false,
+      "homeDelivery": false,
+      "quantityLimit": 3,
+      "fulfilledBy": "BestBuy.com",
+      "bundledIn": [
+
+      ],
+      "color": "Black/Rose Gold",
+      "depth": "1/2\"",
+      "dollarSavings": 0.00,
+      "percentSavings": "0.0",
+      "tradeInValue": "",
+      "height": "5\"",
+      "orderable": "Available",
+      "weight": "2 oz.",
+      "shippingWeight": "0.2",
+      "width": "2-5/8\"",
+      "warrantyLabor": "1 year limited",
+      "warrantyParts": "1 year",
+      "longDescription": "Safeguard your Apple iPhone 5 or 5s with this ADOPTED APH11242 wrap case that features a metallized frame with cushioned silicone panels that offers protection against surface damage. The clip-on design makes installation easy.",
+      "includedItemList": [
+        {
+          "includedItem": "ADOPTED Cushion Wrap Case for Apple® iPhone® 5 and 5s"
+        }
+      ],
+      "marketplace": false,
+      "listingId": null,
+      "sellerId": null,
+      "shippingRestrictions": null,
+      "iphoneAccessory": true
+    },
+    {
+      "sku": 2470411,
+      "productId": 1219073326257,
+      "name": "ADOPTED - Cushion Wrap Case for Apple® iPhone® 5 and 5s - Black/Silver",
+      "source": "other",
+      "type": "HardGood",
+      "startDate": "2013-10-23",
+      "new": false,
+      "active": true,
+      "lowPriceGuarantee": true,
+      "activeUpdateDate": "2014-06-13T18:12:48",
+      "regularPrice": 39.99,
+      "salePrice": 39.99,
+      "onSale": false,
+      "planPrice": null,
+      "priceWithPlan": [
+
+      ],
+      "priceRestriction": null,
+      "priceUpdateDate": "2014-03-19T02:03:36",
+      "digital": false,
+      "preowned": false,
+      "carrierPlans": [
+
+      ],
+      "technologyCode": null,
+      "carrierModelNumber": null,
+      "earlyTerminationFees": [
+
+      ],
+      "outletCenter": null,
+      "secondaryMarket": null,
+      "frequentlyPurchasedWith": [
+
+      ],
+      "accessories": [
+
+      ],
+      "relatedProducts": [
+        {
+          "sku": 1530516
+        },
+        {
+          "sku": 2470519
+        },
+        {
+          "sku": 7428677
+        },
+        {
+          "sku": 1530491
+        },
+        {
+          "sku": 1530822
+        },
+        {
+          "sku": 1530859
+        },
+        {
+          "sku": 1530986
+        },
+        {
+          "sku": 2470333
+        },
+        {
+          "sku": 7083081
+        },
+        {
+          "sku": 1588148
+        },
+        {
+          "sku": 1588157
+        },
+        {
+          "sku": 8388056
+        },
+        {
+          "sku": 8388092
+        },
+        {
+          "sku": 2390073
+        },
+        {
+          "sku": 2390188
+        },
+        {
+          "sku": 2390352
+        },
+        {
+          "sku": 6819884
+        },
+        {
+          "sku": 2187633
+        },
+        {
+          "sku": 2610011
+        }
+      ],
+      "techSupportPlans": [
+
+      ],
+      "salesRankShortTerm": null,
+      "salesRankMediumTerm": null,
+      "salesRankLongTerm": 260186,
+      "bestSellingRank": null,
+      "url": "http://www.bestbuy.com/site/adopted-cushion-wrap-case-for-apple-iphone-5-and-5s-black-silver/2470411.p?id=1219073326257&skuId=2470411",
+      "spin360Url": null,
+      "mobileUrl": "http://m.bestbuy.com/r/1219073326257/2470411/",
+      "affiliateUrl": null,
+      "addToCartUrl": "http://www.bestbuy.com/site/olspage.jsp?id=pcmcat152200050035&type=category&cmp=RMX&ky=2b6y7TIVBl4K9CB7FI7sy8sCKqN17ajfo&qvsids=2470411",
+      "affiliateAddToCartUrl": null,
+      "linkShareAffiliateUrl": "",
+      "linkShareAffiliateAddToCartUrl": "",
+      "upc": "819312010825",
+      "productTemplate": "Cell_Phone_Cases",
+      "categoryPath": [
+        {
+          "id": "cat00000",
+          "name": "Best Buy"
+        },
+        {
+          "id": "abcat0800000",
+          "name": "Cell Phones"
+        },
+        {
+          "id": "abcat0811002",
+          "name": "Cell Phone Accessories"
+        },
+        {
+          "id": "abcat0811006",
+          "name": "Cell Phone Cases & Clips"
+        }
+      ],
+      "lists": [
+
+      ],
+      "customerReviewCount": 2,
+      "customerReviewAverage": "2.0",
+      "customerTopRated": false,
+      "format": null,
+      "freeShipping": true,
+      "freeShippingEligible": true,
+      "inStoreAvailability": true,
+      "inStoreAvailabilityText": "Store Pickup:",
+      "inStoreAvailabilityUpdateDate": "2014-06-13T18:12:48",
+      "itemUpdateDate": "2014-09-05T09:41:54",
+      "onlineAvailability": true,
+      "onlineAvailabilityText": "Shipping: Usually ships in 3-5 business days",
+      "onlineAvailabilityUpdateDate": "2014-07-19T11:05:47",
+      "releaseDate": null,
+      "shippingCost": 0.00,
+      "shipping": [
+        {
+          "ground": 0.00,
+          "secondDay": 8.99,
+          "nextDay": 15.99,
+          "vendorDelivery": ""
+        }
+      ],
+      "specialOrder": false,
+      "shortDescription": "Compatible with Apple iPhone 5 and 5s; silicone polycarbonate material; metalized frame; upholstered panels; clip-on installation; play-through design",
+      "class": "MOBILE PHONE ACCY",
+      "classId": 123,
+      "subclass": "SO IPHONE CASES",
+      "subclassId": 619,
+      "department": "DIGITAL COMMUNICATIO",
+      "departmentId": 3,
+      "buybackPlans": [
+
+      ],
+      "protectionPlans": [
+        {
+          "sku": 9998563,
+          "name": "2-Year Replacement Plan - Geek Squad",
+          "productId": 1218318856605,
+          "type": "PSP-PRP",
+          "term": "2YR",
+          "regularPrice": 8.99,
+          "salePrice": 8.99
+        }
+      ],
+      "productFamilies": [
+
+      ],
+      "description": null,
+      "manufacturer": "ADOPTED",
+      "modelNumber": "APH11160",
+      "image": "http://img.bbystatic.com/BestBuy_US/images/products/2470/2470411_sc.jpg",
+      "largeFrontImage": "http://img.bbystatic.com/BestBuy_US/images/products/2470/2470411_sa.jpg",
+      "mediumImage": "http://img.bbystatic.com/BestBuy_US/images/products/2470/2470411fp.gif",
+      "thumbnailImage": "http://img.bbystatic.com/BestBuy_US/images/products/2470/2470411_s.gif",
+      "largeImage": "http://img.bbystatic.com/BestBuy_US/images/products/2470/2470411_sb.jpg",
+      "alternateViewsImage": "http://img.bbystatic.com/BestBuy_US/images/products/2470/2470411cv1a.jpg",
+      "angleImage": null,
+      "backViewImage": null,
+      "energyGuideImage": null,
+      "leftViewImage": null,
+      "accessoriesImage": null,
+      "remoteControlImage": null,
+      "rightViewImage": null,
+      "topViewImage": null,
+      "condition": "New",
+      "inStorePickup": true,
+      "friendsAndFamilyPickup": false,
+      "homeDelivery": false,
+      "quantityLimit": 3,
+      "fulfilledBy": "BestBuy.com",
+      "bundledIn": [
+
+      ],
+      "color": "Black/Silver",
+      "depth": "1/2\"",
+      "dollarSavings": 0.00,
+      "percentSavings": "0.0",
+      "tradeInValue": "",
+      "height": "5\"",
+      "orderable": "Available",
+      "weight": "1.3 oz.",
+      "shippingWeight": "0.24",
+      "width": "2-1/2\"",
+      "warrantyLabor": "1 year limited",
+      "warrantyParts": "1 year",
+      "longDescription": "Safeguard your iPhone 5 or 5s on the go with this ADOPTED APH11160 cushion wrap case that features a nonconductive metalized frame with upholstered panels of soft silicone for protection. The play-through design offers open access to ports and buttons.",
+      "includedItemList": [
+        {
+          "includedItem": "ADOPTED Cushion Wrap Case for Apple® iPhone® 5 and 5s"
+        }
+      ],
+      "marketplace": false,
+      "listingId": null,
+      "sellerId": null,
+      "shippingRestrictions": null,
+      "iphoneAccessory": true
+    }
+  ]
+}
+itemresults
+ADOPTED - Cushion Wrap Case for Apple® iPhone® 5 and 5s - Black/Rose Gold - $39.99
+ADOPTED - Cushion Wrap Case for Apple® iPhone® 5 and 5s - Black/Silver - $39.99
